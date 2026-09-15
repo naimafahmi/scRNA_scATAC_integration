@@ -1,0 +1,7 @@
+# Add your Python dependencies here, for example:
+# scanpy
+# anndata
+# scvi-tools
+# muon
+# matplotlib
+# seaborn

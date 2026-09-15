@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+# Keep data folders but ignore large raw files
+# Uncomment if needed:
+# data/raw/*
+# data/processed/*
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
